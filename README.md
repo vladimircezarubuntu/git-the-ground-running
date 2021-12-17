@@ -6,3 +6,4 @@ from [this site](https://holidappy.com/quotes/100-Funny-Sayings-Quotes-and-Phras
 - A clear conscience is usually the sign of a bad memory.
 - It is not my faut that I never learned to accept responsibility!
 - Before you marry a person, you should first make them use a computer with slow Internet to see who they really are.
+- Beauty is in the eye of the beer holder.
